@@ -1,0 +1,5 @@
+Todos: 
+* fix up nvim config 
+* Troubleshoot sd-card reader try - https://github.com/relan/exfat
+* Unsub Spotify ---> find/build alternative music stream platform - likely Plex on rpi  
+
